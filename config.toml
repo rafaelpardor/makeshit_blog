@@ -1,0 +1,51 @@
+baseURL = "/"
+#baseURL = "https://rafaelpardor.github.io/makeshit_blog"
+languageCode = "en-us"
+title = "Makeshift Blog"
+theme = "terminal"
+paginate = 1
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "blue"
+  showMenuItems = 1
+  showLanguageSelector = false
+  centerTheme = true
+
+[languages]
+
+  [languages.en]
+    languageName = "English"
+    title = "Makeshift Blog"
+    subtitle = "Blog made by @rafaelpardor"
+    owner = "Rafael Pardo"
+    keywords = "blog"
+    menuMore = "More Topics"
+    readOtherPosts = "READ OTHER POSTS"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+
+    [languages.en.params.logo]
+      logoText = "Makeshift Blog"
+      #logoHomeLink = "https://rafaelpardor.github.io/makeshit_blog"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+
+      [[languages.en.menu.main]]
+        identifier = "tag_linux"
+        name = "linux"
+        url = "/tags/linux"
+
+      [[languages.en.menu.main]]
+        identifier = "tag_docker"
+        name = "docker"
+        url = "/tags/docker"
+
+
