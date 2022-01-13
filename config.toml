@@ -1,5 +1,4 @@
-baseURL = "/"
-#baseURL = "https://rafaelpardor.github.io/makeshit_blog"
+baseURL = "https://rafaelpardor.github.io/makeshit_blog/"
 languageCode = "en-us"
 title = "Makeshift Blog"
 theme = "terminal"
@@ -29,8 +28,7 @@ paginate = 1
 
     [languages.en.params.logo]
       logoText = "Makeshift Blog"
-      #logoHomeLink = "https://rafaelpardor.github.io/makeshit_blog"
-      logoHomeLink = "/"
+      logoHomeLink = "https://rafaelpardor.github.io/makeshit_blog/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]

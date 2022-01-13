@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Makeshift Blog</title>
+    <link>https://rafaelpardor.github.io/makeshit_blog/</link>
+    <description>Recent content on Makeshift Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rafaelpardor.github.io/makeshit_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why in Linux everything is considered a file?</title>
+      <link>https://rafaelpardor.github.io/makeshit_blog/posts/everything-is-a-file/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelpardor.github.io/makeshit_blog/posts/everything-is-a-file/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://rafaelpardor.github.io/makeshit_blog/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rafaelpardor.github.io/makeshit_blog/about/</guid>
+      <description>I&amp;rsquo;m Rafael Pardo, and I will use this blog to write about things I learn, and do research about. There will be public notes, of how I complete CTF&amp;rsquo;s games, and probably more.
+I wanted to create this blog in a manner of invest my time into write about things I&amp;rsquo;m curious at, mainly focused on Computer Science topics, maybe in the future, perhaps, even write about tough topics in a way that could be accessible for everyone.</description>
+      <content>&lt;p&gt;I&amp;rsquo;m Rafael Pardo, and I will use this blog to write about things I
+learn, and do research about. There will be public notes, of how I
+complete CTF&amp;rsquo;s games, and probably more.&lt;/p&gt;
+&lt;p&gt;I wanted to create this blog in a manner of invest my time into write
+about things I&amp;rsquo;m curious at, mainly focused on Computer Science topics,
+maybe in the future, perhaps, even write about tough topics in a way
+that could be accessible for everyone.&lt;/p&gt;
+&lt;p&gt;And altough I have almost 6 years of experience in the Software
+Development realm, &lt;em&gt;(at the time I&amp;rsquo;m writing this)&lt;/em&gt;, I believe that I&amp;rsquo;m
+illiterateness in some topics and lack of some fundamentals.&lt;/p&gt;
+&lt;p&gt;This blog will be a way to try to improve my knowledge.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rafael Pardo&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
