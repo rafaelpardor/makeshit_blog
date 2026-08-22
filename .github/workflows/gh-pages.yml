@@ -1,0 +1,19 @@
+name: github pages
+
+on:
+  push:
+    branches:
+      - master
+    pull_request:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo

@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "1111f0a1e1c24574",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f6f244b3f97f505",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f5ead1e5035766b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "25716c8643f210c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tips/Bookmarks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "61af96b9891fc21f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260424012414/20260424012414.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260424012414"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4aedd7cdc86db74d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3b4619b0ce91e43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02d96d66a497cf3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2c7a06993b0021b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#religion",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f585dc99f404d9a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.5124969482422
+  },
+  "right": {
+    "id": "926f26bc34a353bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "44933dfceac585cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b936fbb40d8b8ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tips/20260614200259.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 20260614200259"
+            }
+          },
+          {
+            "id": "a62f9413715416ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tips/20260614200259.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 20260614200259"
+            }
+          },
+          {
+            "id": "1b116ffa47d031b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "947bd1772398d662",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tips/20260614200259.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 20260614200259"
+            }
+          },
+          {
+            "id": "26fbed60c7224d74",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "61af96b9891fc21f",
+  "lastOpenFiles": [
+    "tips/Bookmarks.md",
+    "20260714002715.md",
+    "20260820104929.md",
+    "20260517005655/20260517005655.md",
+    "20260425210600/20260425210600.md",
+    "20260425210600",
+    "20260608221514/20260608221514.md",
+    "20260517105139/20260517105139.md",
+    "20260714000637/20260714000637.md",
+    "20260629132237.md",
+    "20260503080646.md",
+    "20260518200444.md",
+    "README.md",
+    "20260714012403.md",
+    "Base.base",
+    "20260714010748.md",
+    "20260430055442.md",
+    "20260714030214.md",
+    "20260714030203.md",
+    "20260213110741/20260213110741.md",
+    "20260714011210.md",
+    "tips/20260614200514.md",
+    "tips/20260614200542.md",
+    "tips/20260615011551.md",
+    "tips/20260623233314.md",
+    "tips/20260706215747.md",
+    "tips/20260713234700.md",
+    "tips/20260714010236.md",
+    "20260714000637",
+    "20260517003654",
+    "20260608221514",
+    "tips",
+    "20260517105139",
+    "20260517003607",
+    "20260517003051",
+    "20260517002833",
+    "Untitled.canvas",
+    "Canvas.canvas",
+    "Untitled 1.canvas"
+  ]
+}
